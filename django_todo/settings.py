@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-_q8*p07-ffk_*gm74urtf=ms+7+0d8l)(9)e02qrv5#(h478_=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tamir-django-todo-app.git']
+ALLOWED_HOSTS = ['tamir-django-todo-app.herokuapp.com']
 
 
 # Application definition
