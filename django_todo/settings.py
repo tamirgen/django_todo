@@ -81,11 +81,10 @@ WSGI_APPLICATION = 'django_todo.wsgi.application'
 #         'ENGINE': 'django.db.backends.sqlite3',
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
-}
+#}
 
 DATABASES = {
     'default' : dj_database_url.parse('postgres://dkukdticpjjqyo:227492842be8f1b9953ad0aa2ad5d1f4254a82ad705c99f3c6afaac74c324b40@ec2-44-196-242-155.compute-1.amazonaws.com:5432/ddkvo37tvhab75')
-    }
 }
 
 
